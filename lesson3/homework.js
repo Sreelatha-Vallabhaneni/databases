@@ -1,3 +1,15 @@
+const findDatabaseTasks = function(searchText) {
+  
+}
+
+const findUserTasks = function(userName) {
+  
+}
+
+const findUserTasksStatus = function(userName) {
+  
+}
+
 const addNewTask = function(title, description, created, updated, dueDate, statusID, userID) {
   
 };

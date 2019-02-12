@@ -44,7 +44,11 @@ Also, please read the following pages that explains the ACID database model and 
 
 ## Homework
 
-- Complete the `homework.js` script so that you have a functional node application. In particular, add the necessary code to the functions:
+- Complete the `homework.js` script so that you have a functional node application. You should use the database from lesson2 (`lesson2-data.sql`). In particular, add the necessary code to the functions:
+
+    - `findDatabaseTasks`, to find all users assigned to tasks that have the word 'databases' in the title or description
+    - `findUserTasks`, to find all tasks assigned to Donald Duck
+    - `findUserTasksStatus`, to find the status name of the tasks assigned to Pavel
     - `addNewTask`, to add a new task
     - `changeTaskTitle`, to change the title of a task
     - `changeTaskDueDate`, to change the due date of a task

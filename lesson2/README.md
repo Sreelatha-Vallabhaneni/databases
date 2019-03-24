@@ -6,7 +6,7 @@ Objective: Students should be able to build CRUD functionality using SQL stateme
 
 
 ## Pre-Class Readings
-
+- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [What is a Database Foreign Key](http://databases.about.com/cs/specificproducts/g/foreignkey.htm)
 - [Example Entity Relationship Diagram (including associative entities)](http://users.csc.calpoly.edu/~jdalbey/308/Lectures/HOWTO-ERD.html)
 
@@ -33,7 +33,6 @@ Objective: Students should be able to build CRUD functionality using SQL stateme
 
 ## Reference Material
 
-- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Floating Point Inaccuracy](http://stackoverflow.com/questions/2100490/floating-point-inaccuracy-examples#2100502)
 - [TutorialsPoint MySQL Introduction](http://www.tutorialspoint.com/mysql/mysql-introduction.htm)
 - [w3schools tutorial (easy to find how specific commands work)](https://www.w3schools.com/sql/default.asp)
